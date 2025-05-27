@@ -1,4 +1,4 @@
-package src.third;
+
 
 class RectangleArea {
 
